@@ -1,3 +1,3 @@
-# islandora_lite_docs
+# Islandora Lite Documentation
 
-See the Wiki for user documentation
+Documentation is stored [in the Wiki](https://github.com/digitalutsc/islandora_lite_docs/wiki)
