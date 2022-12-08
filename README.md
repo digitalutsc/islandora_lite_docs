@@ -1,4 +1,4 @@
 # Islandora Lite Documentation
 
 * Documentation is stored [in the Wiki](https://github.com/digitalutsc/islandora_lite_docs/wiki)
-* Project development is being migrated [to a Github project](https://github.com/orgs/digitalutsc/projects/4)
+* Project development is tracked [in a Github project](https://github.com/orgs/digitalutsc/projects/4)
